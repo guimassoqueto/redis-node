@@ -12,3 +12,6 @@ ts:
 
 js:
 	npm run build && npm run js
+
+redis:
+	docker compose up redis -d
