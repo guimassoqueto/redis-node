@@ -1,3 +1,6 @@
+i:
+	npm install
+
 h:
 	npx husky install
 
